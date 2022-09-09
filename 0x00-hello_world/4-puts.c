@@ -1,18 +1,16 @@
 #include <stdio.h>
 
 /**
- * main is a function that entry point of C program
+ * main: entry point to print the string in the put function
  *
- * stdio.h is stands standard input_output library_header
- * return (0) return the result 0 
- *
+ * discription: by using the main function this program prints Programming is like building a multilingual puzzle
+ * Return : 0
  */
 int main(void)
 
 {
 
-		puts("\"Programming is like building a multilingual puzzle");
-
-			return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 
 }
