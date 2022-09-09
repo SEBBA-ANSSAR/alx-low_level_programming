@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 /**
  * main is a function that entry point of C program
  *
@@ -8,8 +7,6 @@
  * return (0) return the result 0 
  *
  */
-
-
 int main(void)
 
 {
