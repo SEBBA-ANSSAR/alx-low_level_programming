@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - a program that prints the alphabet in lowercase, followed by a new line.
+ * main - a program that prints the alphabet in lowercase,
+ * followed by a new line.
  * Description:Print all the letters except q and e
  * You can only use the putchar function
  * (every other function (printf, puts, etc…) is forbidden)
