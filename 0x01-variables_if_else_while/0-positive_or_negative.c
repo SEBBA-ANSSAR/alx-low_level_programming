@@ -6,7 +6,7 @@
  * main - Prints a random number and states whether
  * Description: use the main function
  * Return: 0
- */  
+ */ 
 int main(void)
 {
 
