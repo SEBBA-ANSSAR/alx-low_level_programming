@@ -19,23 +19,21 @@
 */
 int main(void)
 {
-	int digit1, digit2;
+	int d;
 
-	for (digit1 = 0; digit1 < 9; digit1++)
+	for (d = 0; d < 90; d++)
 	{
-		for (digit2 = digit1 + 1; digit2 < 10; digit2++)
+		for ()
 		{
-			putchar((digit1 % 10) + '0');
-			putchar((digit2 % 10) + '0');	
-		if (digit1 == 8 && digit2 == 9)
-			continue;
-
+			putchar((d / 10) + '0');
+			putchar((d % 10) + '0');
+		}
+		if (d != 89)
+		{
 			putchar(',');
-			putchar(' ');				
-		}	
-	}
-
+			putchar(' ');
+		}
+	}	
 	putchar('\n');
-
 	return (0);
 }
