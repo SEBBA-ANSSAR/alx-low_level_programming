@@ -4,7 +4,7 @@
  * main - a function that prints the alphabet, in lowercase
  * followed by new line
  * Description:to print the alphabet in lower_case
- * Prototype: void print_alphabet(void);
+ * by using void print_alphabet(void);
  * we can only use _putchar twice in your code
  * Return:0
 */
