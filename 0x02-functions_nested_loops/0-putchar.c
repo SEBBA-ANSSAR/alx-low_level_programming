@@ -2,7 +2,9 @@
 
 /**
  * main - program that prints _putchar
- * Description: The program should return 0
+ * Description:a program that prints _putchar
+ * use the while loop
+ * The program should return 0
  * Retutn: 0
 */
 int main(void)
