@@ -2,6 +2,9 @@
 
 /**
  *  main - causes an infinite loop
+ *  Description:Don’t add or remove any lines of code,
+ *   as we will be checking your line count
+ *   @i: integer
  *  Return: 0
 */
 int main(void)
