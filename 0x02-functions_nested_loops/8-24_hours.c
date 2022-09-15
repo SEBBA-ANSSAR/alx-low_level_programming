@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * jack_bauer - a function that prints every minute of the day of Jack Bauer,
+ * jack_bauer - a function that prints
+ * every minute of the day of Jack Bauer,
+ *  Description: prototype void jack_bauer(void)
  *  @h: hour && @m: minutes
- *  Description: prototype void jack_bauer(void);
  *  can listen to this soundtrack while coding :)
  *  10 allows second digit to rotate
  *  for loop breaks before passing 24:00
