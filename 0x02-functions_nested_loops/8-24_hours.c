@@ -4,8 +4,7 @@
  * jack_bauer - a function that prints
  * every minute of the day of Jack Bauer,
  *  Description: prototype void jack_bauer(void)
- *  @h: hour && @m: minutes
- *  can listen to this soundtrack while coding :)
+ *  h: hour && m: minutes
  *  10 allows second digit to rotate
  *  for loop breaks before passing 24:00
  *  Return: 24 hour clock line by line
