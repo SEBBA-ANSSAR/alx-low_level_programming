@@ -5,13 +5,12 @@
  * Description: prototype void swep_int(int *a, int *b)
  * @a: input 1
  * @b: input 2
- * Return: intger
+ * Return: nothing
 */
-void swep_int(int *a, int *b)
+void swap_int(int *a, int *b)
 {
-	int n;
+	int s = *a;
 
-	n =*a;
 	*a = *b;
-	*b = n;
+	*b = s;
 }
