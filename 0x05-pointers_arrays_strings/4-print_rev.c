@@ -5,7 +5,6 @@
  *  followed by a new line.
  *  Description: use a prototype void print_rev(char *s)
  *  @s: input string
- *  Return: the input 
 */
 void print_rev(char *s)
 {
