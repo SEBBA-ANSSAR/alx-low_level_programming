@@ -2,8 +2,8 @@
 #include "main.h"
 
 /**
- * print_array - a function that prints
- * elements of an array of integers, 
+ * print_array - a function that prints elements of an array of integers,
+ * followed by a new line.
  * Description: use prototype void print_array(int *a, int n)
  * You are allowed to use printf
  * @a: array name
