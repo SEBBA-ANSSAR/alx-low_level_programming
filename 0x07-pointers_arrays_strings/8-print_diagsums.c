@@ -9,7 +9,7 @@
  * @a: pointer that contains the address of the beginning of the matrix
  * Return: nothing
 */
-void print_diadsums(int *a, int size)
+void print_diagsums(int *a, int size)
 {
 	int i;
 	int j;
