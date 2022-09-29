@@ -9,3 +9,5 @@ by using a prototype void _puts_recursion(char *s);
 	5. Your subconscious is looking for the dreamer and use a prototype int _sqrt_recursion(int n);
 	6. Inception. Is it possible?
 Write a function that returns 1 if the input integer is a prime number, otherwise return 0. and use a prototype int is_prime_number(int n);
+	7. They say we only use a fraction of our brain's true potential. Now that's when we're awake. When we're asleep, we can do almost anything and use a prototype int is_palindrome(char *s);
+	8. Inception. Now, before you bother telling me it's impossible... and use aprototype int wildcmp(char *s1, char *s2);
