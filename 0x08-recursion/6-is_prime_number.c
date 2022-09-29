@@ -28,8 +28,7 @@ int is_prime(unsigned int n, unsigned int c)
  *  otherwise return 0.
  *  Description: use a prototype int is_prime_number(int n);
  *  @n: input integer
- *  Return : 1 if the input integer is a prime number
- *  otherwise 0.
+ *  Return : 1 if n is a prime number. 0 if n is not a prime number.
 */
 int is_prime_number(int n)
 {
