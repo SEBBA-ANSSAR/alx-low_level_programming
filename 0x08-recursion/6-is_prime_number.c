@@ -3,6 +3,8 @@
 /**
  * is_prime - a function that detects
  * if an input number is aprime number
+ * Description: use a prototype
+ * int is_prime(unsigned int n, unsigned int c);
  * @n: input integer
  * @c: iterator
  * Return: 1 if the input integer is a prime number
@@ -26,7 +28,7 @@ int is_prime(unsigned int n, unsigned int c)
  *  otherwise return 0.
  *  Description: use a prototype int is_prime_number(int n);
  *  @n: input integer
- *  Return : 1 if  if the input integer is a prime number
+ *  Return : 1 if the input integer is a prime number
  *  otherwise 0.
 */
 int is_prime_number(int n)
